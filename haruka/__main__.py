@@ -29,7 +29,7 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-Made from the source code of [VKPROJECTS](t.me/vkprojects).
+BOT BY [VKPROJECTS](t.me/vkprojects).
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
